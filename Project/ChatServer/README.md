@@ -53,11 +53,4 @@ After you've joined the server as a client, you can:
   25. '/VERSION' - Displays the version of the chat server
   26. '/WHO' - Shows your username.
   27. '/WHOIS' - Displays your username and the hostname of the server
-
-### To start the GUI
-  - Start QTCreator
-  - Make sure you are in the server's directory on a terminal and type 'make'
-  - Then, start the server by typing 'server'
-  - Go back to QT, and press (ctl B) if on Windows or Linux, or (command B) on mac to build the project
-  - Click the green arrow on the lower left hand of the screen to begin the GUI. Click as many times as clients you wish
-  to create. For example, clicking it 3 times will create 3 windows for 3 seperate clients.
+  
