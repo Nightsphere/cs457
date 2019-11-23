@@ -1,4 +1,4 @@
-# IRC Chat server and client
+# IRC Chat Server and Client
   - Created by Josh Keahey
   - This program is a chat server and client that create a chat program with users, channels, and 
 	many other different commands that can be used. It is inspired by the IRC protocol.
