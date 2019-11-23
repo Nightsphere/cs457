@@ -216,8 +216,8 @@ int main(int argc, char * argv[]) {
 
     // Read configuration files
     if (start() < 0) {
-		exit(EXIT_FAILURE);
-	}
+	exit(EXIT_FAILURE);
+    }
 
     // Start server
     cout << "Server sucessfully started on port " << port << '\n'; 
